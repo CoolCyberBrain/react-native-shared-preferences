@@ -7,7 +7,7 @@ import java.util.Map;
 
 public class SharedHandler {
 
-    private static final String SHARED_NAME = "wit_player_shared_preferences";
+    private static final String SHARED_NAME = "kitsilano_shared_preferences";
 
     private SharedPreferences mSharedPreferences;
 
